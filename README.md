@@ -1,6 +1,6 @@
 # Amazon Bedrock extension for `langchaingo` 
 
-`LangChain` is a powerful and extensible library that allows us to plugin external components as per requirements. This blog demonstrated how to extend `langchaingo` to make sure it works with the Anthropic Claude model available in Amazon Bedrock.
+`LangChain` is a powerful and extensible library that allows us to plugin external components as per requirements. This repo provides an LLM plugin/extension/implementation for [langchaingo](https://github.com/tmc/langchaingo) to make sure it works with the Anthropic Claude model available in Amazon Bedrock.
 
 ## Security
 
